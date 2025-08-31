@@ -15,3 +15,6 @@ If the back is better, it may indicate that more time spent warming up is needed
 
 - Scatter Plots: This visual shows a linear regression of the rounds played by each player and their respective scores. The time sequence creates a trend line to show if each player is progressing or regressing. This is a vital piece of information because the average score may be a 95, but within the last x number of rounds, the scores may have been enough to move the line of best fit up. While the average score is a 95, you may not want to predict you will shoot a 95 that round given the recent trend.
 
+- Par Type Averages: This is an interesting data point to observe as it gives you ballpark idea of what score each player will get on either a par 3, par 4, or par 5.
+
+- Putts Per Round: This shows the average numbe of putts each player will take per round. It can also let you know how may putts per hole they average.
