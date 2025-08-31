@@ -1,0 +1,2 @@
+My two brothers-in-law and myself are all avid data professionals and we love two golf. We decided to create our own golf league where we track our data in a Google Sheets file. As the years have gone on, that Google sheets file became clutered and could not smoothly
+handle the complex calculations we wanted to track. I decided to develop a simple Power BI dashboard that not only allows us to observe the statistics and insights that we are interested in, but also automate our entire data entry process.
